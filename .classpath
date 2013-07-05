@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="srctest"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/easymock-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/easymockclassextension-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-annotation_1.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-ejb_3.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-interceptor_3.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-j2ee_1.4_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-jpa_3.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-jta_1.1_spec-1.0-tsr.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-jta_1.1_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/hsqldb-1.8.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.4.ga.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/junit-addons-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="lib/ognl-2.6.9-patch-20090427.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.0-FINAL.jar"/>
+	<classpathentry kind="lib" path="lib/portlet-api-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/s2-extension-2.4.42.jar"/>
+	<classpathentry kind="lib" path="lib/s2-framework-2.4.42.jar"/>
+	<classpathentry kind="lib" path="lib/s2-tiger-2.4.42.jar"/>
+	<classpathentry kind="lib" path="lib/uow_api-6.jar"/>
+	<classpathentry kind="lib" path="lib/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/s2-dao-1.0.51.jar"/>
+	<classpathentry kind="lib" path="lib/s2-dao-tiger-1.0.51.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
